@@ -1,1 +1,17 @@
-style.css
+*{
+	margin: 0 auto;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+h1{
+	font-weight: 700;
+	font-size: 50px;
+}
+
+input{
+	border: none;
+	border-bottom: 1px solid black;
+	padding: 5px;
+	margin: 5px 20px;
+}
